@@ -5,12 +5,7 @@
     <img src="https://github.com/kritikaparmar-programmer/HealthCheck/blob/main/static/bg_healthcheck.png" alt="image" >
 
 
-    ![Issues](https://img.shields.io/github/issues/kritikaparmar-programmer/HealthCheck)
-![Pull Requests](https://img.shields.io/github/issues-pr/kritikaparmar-programmer/HealthCheck)
-![Forks](https://img.shields.io/github/forks/kritikaparmar-programmer/HealthCheck)
-![Stars](https://img.shields.io/github/stars/kritikaparmar-programmer/HealthCheck)
-[![License](https://img.shields.io/github/license/kritikaparmar-programmer/HealthCheck)](https://github.com/kritikaparmar-programmer/HealthCheck)
-![](https://img.shields.io/github/repo-size/kritikaparmar-programmer/HealthCheck.svg?label=Repo%20size&style=flat-square)&nbsp;
+   
 
   </a>
 
